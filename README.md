@@ -2,21 +2,22 @@
 The First project 
 
 ## Overview 
-In this project, I analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends, using the **TMDb** movie dataset.
+I use the SQL to extract data from the temperatures database, then download the results to a CSV. Then I open it up in a spreadsheet program in order to analyze it.
 
-## Researche Questions
-Q1:What is the movie that has the highest budget?
+## Research Questions
+Q1:Is your city hotter or cooler on average compared to the global average?
 
-Q2:Which year has the highest revenue?
+Q2:How do the changes in your city’s temperatures over time compare to the changes in the global average?
 
-Q3:Is there any correlation between revenue and budget?
+Q3:What does the overall trend look like? Is the world getting hotter or cooler? Has the trend been consistent over the last few hundred years?
 
 ## Tools
-Python, Pandas, Numpy, Matplotlib and Jupyter Notebook
+Python, Pandas, excel and Jupyter Notebook
 
 ## Results
--The year that has the highest revenue is 1998
+-My City is hotter than the global average, and yes is consistent over time.
 
--The Warrior's Way movie has the highest budget which means it give higher revenues.
+-In my city the temperatures frequently fixed with the same range, where the global temperatures are increased over time.
 
--Revenue is directly connected to the budget.
+-Has the trend been consistent over the last few hundred years?
+Overall trend looks like the world getting hotter, and the trend has been consistent.
